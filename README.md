@@ -48,6 +48,8 @@ HJKL as cursor keys are more ergonomical to reach by moving the FN to the left C
 * Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` and `PN` again
 * DIP switch 4 back to OFF (no need to unplug)
 
+Remenber, `FN` now is the first key on the left side of the keyboard.
+
 * Put `R_Alt` in `FN` (the `FN` in rigth side of keyboard)
 	* `FN` then: `R_Alt` then: `PN`
 
