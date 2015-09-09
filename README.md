@@ -14,16 +14,13 @@ Multiple sources to buy, e.g. [amazon](http://smile.amazon.com/Mechanical-Keyboa
 * `FN + R_Ctrl` to exit programming -> second LED extinguishes
 * During programming, use the keys as labelled on the keyboard, irrespective of any reassignments
 
-#### Resulting programming:
-![layout](img/layout.png)
-
 ## Layer 3 (Red):
 `FN + .` to switch to Layer  3
 * `FN + R_Ctrl` to enter programming
 * Swap Cmd/Opt keys on both sides of space bar:
   * L_Cmd: `L_Alt` then: `L_WIN` then: `PN`
   * L_Option: `L_WIN` then: `L_Alt` then: `PN`
-  * R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
+  * R_CMD: `R_Alt` then: `L_WIN` then: `PN`
 * `FN + R_Ctrl` to exit programming
 
 ### Common key bindings 
@@ -33,22 +30,29 @@ Multiple sources to buy, e.g. [amazon](http://smile.amazon.com/Mechanical-Keyboa
   * Down: `FN + J` then: `FN + K` then: `PN`
   * Up: `FN + K` then: `FN + I` then: `PN`
 
+ * By default `L_Shift +  ESC = ~`, to type `~` easier is necessary switch the `Shifts`
+  * `L_Shift` then: `R_Shift` then: `PN`
+  * `R_Shift` then: `L_Shift` then: `PN`
+
 * `CapsLock` to `L_Ctrl` as second function
   * `CapsLock` then: `L_Ctrl` then: `PN`
 
 Thanks [__itemzero__](https://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/) for this tip.
 
- * By default `L_Shift +  ESC = ~`, to type `~` easier is necessary switch the `Shifts`
-  * `L_Shift` then: `R_Shift` then: `PN`
-  * `R_Shift` then: `L_Shift` then: `PN`
-
 ## <a name="Move_FN"></a>Move FN to L_Ctrl
 HJKL as cursor keys are more ergonomical to reach by moving the FN to the left Ctrl key location:
+
 * Switch to Layer 2 (or 3, 4); this programming is per layer
 * Unplug keyboard
 * DIP switch 4 to ON
-* Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
+* Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` and `PN` again
 * DIP switch 4 back to OFF (no need to unplug)
+
+* Put `R_Alt` in `FN` (the `FN` in rigth side of keyboard)
+	* `FN` then: `R_Alt` then: `PN`
+
+#### Resulting programming:
+![layout](img/layout.png)
 
 ## Sources
 The how-to for these mappings is from 2 reddit threads:
