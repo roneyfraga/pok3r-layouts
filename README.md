@@ -26,13 +26,16 @@ Multiple sources to buy, e.g. [amazon](http://smile.amazon.com/Mechanical-Keyboa
   * R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
 * `FN + R_Ctrl` to exit programming
 
-* VIM like HJKL and Page Up/Down:
+### Common key bindings 
+
+* VIM like HJKL:
   * Left: `FN + H` then: `FN + J` then: `PN`
   * Down: `FN + J` then: `FN + K` then: `PN`
   * Up: `FN + K` then: `FN + I` then: `PN`
 
 * `CapsLock` to `L_Ctrl` as second function
   * `CapsLock` then: `L_Ctrl` then: `PN`
+
 Thanks [__itemzero__](https://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/) for this tip.
 
  * By default `L_Shift +  ESC = ~`, to type `~` easier is necessary switch the `Shifts`
