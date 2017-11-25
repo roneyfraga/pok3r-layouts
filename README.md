@@ -74,24 +74,28 @@ Put the right side of the keyboard on the left side, using `FN` key.
   * `FN + Q`: then `P`: `PN`
   * `FN + W`: then `O`: `PN`
   * `FN + E`: then `I`: `PN`
+  * `FN + R`: then `U`: `PN`
   * `FN + T`: then `Y`: `PN`
-  * `FN + Y`: then `Backspace`: `PN`
-  * `FN + U`: then `Del`: `PN`
   * `FN + A`: then `;`: `PN`
   * `FN + S`: then `L`: `PN`
   * `FN + D`: then `K`: `PN`
   * `FN + F`: then `J`: `PN`
   * `FN + G`: then `H`: `PN`
-  * `FN + H`: then `Enter`: `PN`
+  * `FN + J`: then `'`: `PN`
   * `FN + Z`: then `\`: `PN`
   * `FN + X`: then `.`: `PN`
   * `FN + C`: then `,`: `PN`
-  * `FN + V`: then `m`: `PN`
+  * `FN + V`: then `M`: `PN`
   * `FN + B`: then `N`: `PN`
+  * `FN + Y`: then `Backspace`: `PN`
+  * `Y`: then `Backspace`: `PN`
+  * `FN + U`: then `Del`: `PN`
+  * `U`: then `Del`: `PN`
+  * `FN + H`: then `Enter`: `PN`
+  * `H`: then `Enter`: `PN`
   * `FN + N`: then `Shift`: `PN`
+  * `N`: then `Shift`: `PN`
 * `FN + R_Ctrl` to exit programming
-
-I can't put `U` in `FN + R`, because the default `restart` option.
 
 Put `L_Ctrl` in the place of `CapsLock` and `Space` in `L_Ctrl`.
 * `FN + R_Ctrl` to enter programming
