@@ -55,6 +55,7 @@ Remenber, `FN` now is the first key on the left side of the keyboard.
 
 #### Resulting programming:
 ![layout](img/layer2formac.png)
+
 Open this layout in the keyboard-layout-editor.com [here!](http://www.keyboard-layout-editor.com/#/gists/751537378453a6e443c1e2b706e13d2d)
 
 ## Layer 3 (Red):
@@ -108,6 +109,7 @@ Put `L_Ctrl` in the place of `CapsLock` and `Space` in `L_Ctrl`.
 
 #### Resulting programming:
 ![layout](img/layer3onehandleft.png)
+
 Open this layout in the keyboard-layout-editor.com [here!]( http://www.keyboard-layout-editor.com/#/gists/1740b36956af8791ccc7efefd7bf22a8)
 
 ## Sources
