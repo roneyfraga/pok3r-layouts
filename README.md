@@ -81,7 +81,7 @@ Put the right side of the keyboard on the left side, using `FN` key.
   * `FN + D`: then `K`: `PN`
   * `FN + F`: then `J`: `PN`
   * `FN + G`: then `H`: `PN`
-  * `FN + J`: then `'`: `PN`
+  * `J`: then `'`: `PN`
   * `FN + Z`: then `\`: `PN`
   * `FN + X`: then `.`: `PN`
   * `FN + C`: then `,`: `PN`
